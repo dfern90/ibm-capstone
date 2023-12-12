@@ -4,7 +4,7 @@
 ## Overview
 
 This capstone project focuses on predicting the successful landing of the Falcon 9 first stage. SpaceX's Falcon 9 rocket launches, advertised at $62 million, stand out due to the ability to reuse the first stage, a significant cost-saving strategy. Predicting the first stage landing outcome becomes crucial in determining launch costs. This information holds value for competing companies bidding against SpaceX for rocket launches.
-Objectives
+
 ## Learning Objectives
 
     Data Manipulation with Pandas: Develop Python code to manipulate data within a Pandas data frame.
